@@ -79,6 +79,9 @@ document.addEventListener('DOMContentLoaded', function() {
   const iframe = document.getElementById('video');
   iframe.addEventListener('load', function() {
     const playingInfo = document.getElementById('playingInfo');
-    playingInfo.innerText = "Lejátszás...";
+    if (iframe.src.includes('t=')) {
+      playingInfo.innerText = "Lejátszás...";
+      return;
+    }
   });
 });
