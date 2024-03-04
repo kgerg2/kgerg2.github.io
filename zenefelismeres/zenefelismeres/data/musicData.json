@@ -1,8 +1,322 @@
 [
-  {
-    "url": "https://www.youtube.com/watch?v=8cEIlI6CZ7U",
-    "title": "Egmont nyitány",
-    "start": "0:10",
-    "end": "8:10"
-  }
+    {
+        "Zenetörténeti korszak": "Ókor",
+        "Zeneszerző teljes neve": "-",
+        "Mű címe": "Pindarosz ódája",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "-",
+        "url": "https://piped.video/embed?v=Hzgr1qbssTY",
+        "start": "0:00",
+        "end": "3:18"
+    },
+    {
+        "Zenetörténeti korszak": "Ókor",
+        "Zeneszerző teljes neve": "-",
+        "Mű címe": "Szeikilosz sírverse",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "-",
+        "url": "https://piped.video/embed?v=KjHNEbVKIGk",
+        "start": "0:05",
+        "end": "1:12"
+    },
+    {
+        "Zenetörténeti korszak": "Középkor",
+        "Zeneszerző teljes neve": "Arezzói Guido",
+        "Mű címe": "Szent János-himnusz (Ut queant laxis…)",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "Gregorián ének",
+        "url": "https://piped.video/embed?v=9fMppPLocmo",
+        "start": "0:00",
+        "end": "0:37"
+    },
+    {
+        "Zenetörténeti korszak": "Középkor",
+        "Zeneszerző teljes neve": "Celanói Tamás (Thomas de Celano)",
+        "Mű címe": "Dies irae",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "Gregorián ének (szekvencia)",
+        "url": "https://piped.video/embed?v=Vj7R9LeiJPE&t",
+        "start": "0:01",
+        "end": "5:45"
+    },
+    {
+        "Zenetörténeti korszak": "Középkor",
+        "Zeneszerző teljes neve": "John of Fornsete",
+        "Mű címe": "Nyár-kánon",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "Trubadúr dal",
+        "url": "https://piped.video/embed?v=b4FU8yz4BYY",
+        "start": "0:01",
+        "end": "1:45"
+    },
+    {
+        "Zenetörténeti korszak": "Középkor",
+        "Zeneszerző teljes neve": "Moniot D’Arras",
+        "Mű címe": "Nyári ének",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "Trubadúr dal",
+        "url": "https://piped.video/embed?v=AZlTMPlLxTk",
+        "start": "0:01",
+        "end": "4:01"
+    },
+    {
+        "Zenetörténeti korszak": "Reneszánsz",
+        "Zeneszerző teljes neve": "Orlandus Lassus",
+        "Mű címe": "Visszhang",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "Madrigál",
+        "url": "https://piped.video/embed?v=RmwMbG0PnGI",
+        "start": "0:01",
+        "end": "1:17"
+    },
+    {
+        "Zenetörténeti korszak": "Reneszánsz",
+        "Zeneszerző teljes neve": "Tinódi Lantos Sebestyén",
+        "Mű címe": "Egervár viadaljáról szóló históriás ének",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "Históriás ének",
+        "url": "https://piped.video/embed?v=CbKIcFhHeyQ",
+        "start": "0:00",
+        "end": "35:34"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Antonio Vivaldi",
+        "Mű címe": "Négy évszak",
+        "Tétel/más cím": "Tavasz 1. tétel",
+        "Mű/tétel műfaja": "Concerto",
+        "url": "https://piped.video/embed?v=e3nSvIiBNFo",
+        "start": "0:00",
+        "end": "3:11"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Antonio Vivaldi",
+        "Mű címe": "Négy évszak",
+        "Tétel/más cím": "Nyár 3. tétel",
+        "Mű/tétel műfaja": "Concerto",
+        "url": "https://piped.video/embed?v=Ytw99mkVZ8I",
+        "start": "0:00",
+        "end": "2:45"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Antonio Vivaldi",
+        "Mű címe": "Négy évszak",
+        "Tétel/más cím": "Tél 1. tétel",
+        "Mű/tétel műfaja": "Concerto",
+        "url": "https://piped.video/embed?v=UWg5ugyMjIc",
+        "start": "0:02",
+        "end": "3:16"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Antonio Vivaldi",
+        "Mű címe": "Négy évszak",
+        "Tétel/más cím": "Tél 2. tétel",
+        "Mű/tétel műfaja": "Concerto",
+        "url": "https://piped.video/embed?v=4cqhC_paryE",
+        "start": "0:01",
+        "end": "1:52"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Johann Pachelbel",
+        "Mű címe": "Canon",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "-",
+        "url": "https://piped.video/embed?v=JvNQLJ1_HQ0",
+        "start": "0:03",
+        "end": "4:11"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Johann Sebastian Bach",
+        "Mű címe": "Parasztkantáta",
+        "Tétel/más cím": "",
+        "Mű/tétel műfaja": "Kantáta",
+        "url": "https://piped.video/embed?v=RJij5q9QSyY",
+        "start": "0:03",
+        "end": "0:52"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Johann Sebastian Bach",
+        "Mű címe": "h-moll szvit",
+        "Tétel/más cím": "Badinerie",
+        "Mű/tétel műfaja": "Szvit",
+        "url": "https://piped.video/embed?v=Kl6R4Ui9blc",
+        "start": "0:02",
+        "end": "1:19"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Johann Sebastian Bach",
+        "Mű címe": "Máté passió",
+        "Tétel/más cím": "Nyugosznak már a völgyek",
+        "Mű/tétel műfaja": "Passió/Korál",
+        "url": "https://piped.video/embed?v=JzPjBiykdAQ",
+        "start": "0:00",
+        "end": "2:06"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Johann Sebastian Bach",
+        "Mű címe": "G-Dúr menüett",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "Menüett",
+        "url": "https://piped.video/embed?v=p1gGxpitLO8",
+        "start": "0:03",
+        "end": "1:37"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Johann Sebastian Bach",
+        "Mű címe": "D-Dúr szvit",
+        "Tétel/más cím": "Air",
+        "Mű/tétel műfaja": "Szvit",
+        "url": "https://piped.video/embed?v=rrVDATvUitA",
+        "start": "0:00",
+        "end": "5:38"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Johann Sebastian Bach",
+        "Mű címe": "Das Wohltemperierte Klavier I. kötet",
+        "Tétel/más cím": "C-Dúr prelúdium",
+        "Mű/tétel műfaja": "-",
+        "url": "https://piped.video/embed?v=wU46NZ9SsKA",
+        "start": "0:00",
+        "end": "2:10"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Johann Sebastian Bach",
+        "Mű címe": "D-moll toccata és fúga",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "Toccata, fúga",
+        "url": "https://piped.video/embed?v=ho9rZjlsyYY",
+        "start": "0:00",
+        "end": "9:16"
+    },
+    {
+        "Zenetörténeti korszak": "Barokk",
+        "Zeneszerző teljes neve": "Georg Friedrich Händel",
+        "Mű címe": "Messiás",
+        "Tétel/más cím": "Alleluja",
+        "Mű/tétel műfaja": "Oratórium",
+        "url": "https://piped.video/embed?v=usfiAsWR4qU",
+        "start": "0:00",
+        "end": "3:51"
+    },
+    {
+        "Zenetörténeti korszak": "Bécsi klasszika",
+        "Zeneszerző teljes neve": "Joseph Haydn",
+        "Mű címe": "94. \"Üstdob\" szimfónia",
+        "Tétel/más cím": "2. tétel",
+        "Mű/tétel műfaja": "Szimfónia",
+        "url": "https://piped.video/embed?v=VOLy6JxEDLw",
+        "start": "0:11",
+        "end": "5:56"
+    },
+    {
+        "Zenetörténeti korszak": "Bécsi klasszika",
+        "Zeneszerző teljes neve": "Joseph Haydn",
+        "Mű címe": "\"Császár\" vonósnégyes",
+        "Tétel/más cím": "2. tétel",
+        "Mű/tétel műfaja": "Vonósnégyes",
+        "url": "https://piped.video/embed?v=mBmCcSz6HWw",
+        "start": "0:18",
+        "end": "7:17"
+    },
+    {
+        "Zenetörténeti korszak": "Bécsi klasszika",
+        "Zeneszerző teljes neve": "Wolfgang Amadeus Mozart",
+        "Mű címe": "Kis éji zene",
+        "Tétel/más cím": "1. tétel",
+        "Mű/tétel műfaja": "Szerenád",
+        "url": "https://piped.video/embed?v=YqN-5EujyaM",
+        "start": "0:05",
+        "end": "5:46"
+    },
+    {
+        "Zenetörténeti korszak": "Bécsi klasszika",
+        "Zeneszerző teljes neve": "Wolfgang Amadeus Mozart",
+        "Mű címe": "Varázsfuvola",
+        "Tétel/más cím": "Éj királynő 2. áriája",
+        "Mű/tétel műfaja": "Singspiel",
+        "url": "https://piped.video/embed?v=RPUdN3xdpEA",
+        "start": "0:03",
+        "end": "3:09"
+    },
+    {
+        "Zenetörténeti korszak": "Bécsi klasszika",
+        "Zeneszerző teljes neve": "Wolfgang Amadeus Mozart",
+        "Mű címe": "40. g-moll szimfónia",
+        "Tétel/más cím": "1. tétel",
+        "Mű/tétel műfaja": "Szimfónia",
+        "url": "https://piped.video/embed?v=BJPmYURJk4c",
+        "start": "0:06",
+        "end": "7:59"
+    },
+    {
+        "Zenetörténeti korszak": "Bécsi klasszika",
+        "Zeneszerző teljes neve": "Wolfgang Amadeus Mozart",
+        "Mű címe": "Török induló (Rondo Alla Turca)",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "-",
+        "url": "https://piped.video/embed?v=quxTnEEETbo",
+        "start": "0:00",
+        "end": "3:23"
+    },
+    {
+        "Zenetörténeti korszak": "Bécsi klasszika",
+        "Zeneszerző teljes neve": "Ludwig von Beethoven",
+        "Mű címe": "Für Elise",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "-",
+        "url": "https://piped.video/embed?v=q9bU12gXUyM",
+        "start": "0:00",
+        "end": "2:49"
+    },
+    {
+        "Zenetörténeti korszak": "Bécsi klasszika",
+        "Zeneszerző teljes neve": "Ludwig von Beethoven",
+        "Mű címe": "\"Holdfény\" zongoraszonáta",
+        "Tétel/más cím": "1. tétel",
+        "Mű/tétel műfaja": "Zongoraszonáta",
+        "url": "https://piped.video/embed?v=4Tr0otuiQuU",
+        "start": "0:00",
+        "end": "6:00"
+    },
+    {
+        "Zenetörténeti korszak": "Bécsi klasszika",
+        "Zeneszerző teljes neve": "Ludwig von Beethoven",
+        "Mű címe": "5. \"Sors\" szimfónia ",
+        "Tétel/más cím": "1. tétel",
+        "Mű/tétel műfaja": "Szimfónia",
+        "url": "https://piped.video/embed?v=B7pQytF2nak",
+        "start": "0:00",
+        "end": "6:57"
+    },
+    {
+        "Zenetörténeti korszak": "Bécsi klasszika",
+        "Zeneszerző teljes neve": "Ludwig von Beethoven",
+        "Mű címe": "9. szimfónia",
+        "Tétel/más cím": "4. tétel (Örömóda)",
+        "Mű/tétel műfaja": "Szimfónia",
+        "url": "https://piped.video/embed?v=mYcnaT4jlJI",
+        "start": "0:00",
+        "end": "18:37"
+    },
+    {
+        "Zenetörténeti korszak": "Bécsi klasszika",
+        "Zeneszerző teljes neve": "Ludwig von Beethoven",
+        "Mű címe": "\"Egmont\" nyitány",
+        "Tétel/más cím": "-",
+        "Mű/tétel műfaja": "Nyitány",
+        "url": "https://piped.video/embed?v=pkxXFLRmqvw",
+        "start": "0:02",
+        "end": "8:02"
+    }
 ]
