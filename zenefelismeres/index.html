@@ -2,10 +2,20 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>kgerg2</title>
+  <title>Zenefelismerés</title>
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-  <a href="zenefelismeres/index.html">Zenefelismerés</a>
+  <h1>Zenefelismerés</h1>
+  <div id="player"></div>
+  <button id="playButton">Zene elindítása</button>
+  <input id="randomStartTime" type="checkbox" checked>Véletlen kezdési idő
+  <div id="playingInfo"></div>
+  <button id="revealButton">Megoldás mutatása</button>
+  <div id="answer"></div>
+
+  <script src="js/main.js"></script>
+  <button id="showPlayer" class="small">Lejátszó megjelenítése</button>
+  <iframe id="video" allow="autoplay; fullscreen" frameborder="0"></iframe>
 </body>
 </html>
