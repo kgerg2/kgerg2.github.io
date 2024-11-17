@@ -4,7 +4,7 @@
     --input-bg: #ffffff;
     --input-border: #ddd;
     --pre-bg: #f8f9fa;
-    --pre-bg-hover: #f0f0f0;
+    --button2-bg-hover: #f0f0f0;
     --button-bg: #3498db;
     --button-hover: #2980b9;
     --button-text: white;
@@ -16,7 +16,7 @@
     --input-bg: #2d2d2d;
     --input-border: #404040;
     --pre-bg: #2d2d2d;
-    --pre-bg-hover: #404040;
+    --button2-bg-hover: #404040;
     --button-bg: #2980b9;
     --button-hover: #3498db;
     --button-text: white;
@@ -86,15 +86,15 @@ pre {
 .lang-btn {
     padding: 0.5rem 1rem;
     margin-left: 0.5rem;
-    border: 1px solid #ccc;
+    border: 1px solid var(--input-border);
     border-radius: 4px;
-    background: white;
-    color: #000;
+    background: var(--input-bg);
+    color: var(--text-color);
     cursor: pointer;
 }
 
 .lang-btn:hover {
-    background: #f0f0f0;
+    background: var(--button2-bg-hover);
 }
 
 .theme-toggle {
@@ -113,7 +113,7 @@ pre {
 }
 
 .theme-btn:hover {
-    background: var(--button-hover);
+    background: var(--button2-bg-hover);
     color: var(--button-text);
 }
 
@@ -138,7 +138,7 @@ pre {
 }
 
 .copy-btn:hover {
-    background: var(--pre-bg-hover);
+    background: var(--button2-bg-hover);
 }
 
 .copy-btn.visible {
