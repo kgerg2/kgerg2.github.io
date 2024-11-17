@@ -118,7 +118,6 @@ pre:empty {
 
 .theme-btn:hover {
     background: var(--button2-bg-hover);
-    color: var(--button-text);
 }
 
 .results-container {
