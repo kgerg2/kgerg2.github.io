@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <title>Export MTMT publications to BibTeX</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="theme-toggle">
+            <button onclick="toggleTheme()" class="theme-btn">Dark Mode</button>
+        </div>
+        <div class="language-switcher">
+            <button onclick="setLanguage('en')" class="lang-btn">🇬🇧 EN</button>
+            <button onclick="setLanguage('hu')" class="lang-btn">🇭🇺 HU</button>
+        </div>
+        <h1>Export MTMT publications to BibTeX</h1>
+        <form id="searchForm">
+            <input type="text" id="authorName" list="authorSuggestions" placeholder="Enter author name" required>
+            <datalist id="authorSuggestions"></datalist>
+            <button type="submit">Search</button>
+        </form>
+        <div id="authorInfo"></div>
+        <div class="results-container">
+            <button id="copyButton" class="copy-btn" onclick="copyResults()">📋 Copy</button>
+            <pre id="results"></pre>
+        </div>
+    </div>
+</body>
+
+</html>
