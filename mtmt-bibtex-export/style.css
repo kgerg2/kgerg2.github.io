@@ -77,6 +77,10 @@ pre {
     word-wrap: break-word;
 }
 
+pre:empty {
+    display: none;
+}
+
 .language-switcher {
     position: absolute;
     top: 1rem;
