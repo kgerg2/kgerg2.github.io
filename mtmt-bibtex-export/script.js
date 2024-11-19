@@ -155,7 +155,16 @@ async function getCitations(authorName, authorMtid) {
                     entry += 'inproceedings';
                     break;
                 case PublicationType.THESIS:
-                    entry += 'thesis';
+                    switch (paper.subType?.name.toLowerCase()) {
+                        case 'msc':
+                            entry += 'mastersthesis';
+                            break;
+                        case 'phd':
+                            entry += 'phdthesis';
+                            break;
+                        default:
+                            entry += 'thesis';
+                    }
                     break;
                 case PublicationType.JOURNAL_ARTICLE:
                     entry += 'article';
@@ -191,6 +200,9 @@ async function getCitations(authorName, authorMtid) {
             entry += doi ? `,\n    doi = {${doi}}` : '';
             const isbn = paper.book?.identifiers?.find(id => id.source.label === 'ISBN')?.idValue;
             entry += isbn ? `,\n    isbn = {${isbn}}` : '';
+            if (paper.otype === PublicationType.THESIS) {
+                entry += paper.subType?.name ? `,\n    type = {${paper.subType.name}}` : '';
+            }
             entry += '\n}';
 
             return entry;
