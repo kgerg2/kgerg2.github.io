@@ -104,7 +104,7 @@ async function getCitations(authorName, authorMtid) {
     resultsElement.textContent = translations[currentLang].searching;
 
     try {
-        const response = await fetch(`https://m2.mtmt.hu/api/publication?cond=authorships.author;eq;${encodeURIComponent(authorMtid)}&format=json`);
+        const response = await fetch(`https://m2.mtmt.hu/api/publication?cond=authorships.author;eq;${encodeURIComponent(authorMtid)}&format=json&size=10000`);
         const data = await response.json();
         const papers = data.content;
 
